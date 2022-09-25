@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+    },
+}
